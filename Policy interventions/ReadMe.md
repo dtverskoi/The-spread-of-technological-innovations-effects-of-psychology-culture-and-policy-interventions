@@ -6,4 +6,6 @@ Mainpolicy.m performs simulations that show the effectiveness of five different 
 - experiment 5: training individuals.
 This code uses mainfun.m, mainfunp.m, and mainfunp0.m for creating data.
 
-Figpolicy.m plots all figures related to intervention strategies using data files produced by Mainpolicy.m.
+Figpolicy.m plots all figures in the SM related to intervention strategies using data files produced by Mainpolicy.m.
+
+FigPs.m produces Figure 4 in the main text using data files created by Mainpsych.m
