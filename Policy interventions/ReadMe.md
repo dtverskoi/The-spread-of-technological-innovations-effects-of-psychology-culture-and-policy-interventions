@@ -8,4 +8,4 @@ This code uses mainfun.m, mainfunp.m, and mainfunp0.m for creating data.
 
 Figpolicy.m plots all figures in the SM related to intervention strategies using data files produced by Mainpolicy.m.
 
-FigPs.m produces Figure 4 in the main text using data files created by Mainpsych.m
+Figp.m produces produces Figure 3 in the main text using data files created by Mainpolicy.m.
