@@ -1,5 +1,5 @@
 Mainmat.m performs simulations that show the effects of material factors on the spread of a new technology:
-- experiment 1: effects of foresight parameter;
+- experiment 1: effects of the foresight parameter;
 - experiment 2: effects of the maximum benefit of using new technology;
 - experiment 3: offects of the minimum benefit of using old technology.
 This code uses mainfun.m for creating data.
